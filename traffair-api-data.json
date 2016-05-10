@@ -1,0 +1,44 @@
+{
+  "KC3" : {
+    "NO2" : 28,
+    "confidence" : 0.001,
+    "date" : "2016-05-01T07:14:23.210Z",
+    "lat" : "51.49913951",
+    "locNum" : 3,
+    "lon" : "-0.164337605",
+    "position" : "51.49913951,-0.164337605",
+    "predictedJam" : 2,
+    "redirectpos" : "",
+    "reroute" : "none",
+    "timeClass" : 7,
+    "timestamp" : 1462086863210
+  },
+  "KC4" : {
+    "NO2" : 59,
+    "confidence" : 0.3123390177985143,
+    "date" : "2016-05-01T07:14:23.210Z",
+    "lat" : "51.48743685",
+    "locNum" : 4,
+    "lon" : "-0.168397129",
+    "position" : "51.48743685,-0.168397129",
+    "predictedJam" : 3,
+    "redirectpos" : "51.49019756,-0.190863311",
+    "reroute" : "KC5",
+    "timeClass" : 7,
+    "timestamp" : 1462086863210
+  },
+  "KC5" : {
+    "NO2" : 59,
+    "confidence" : 0.6015291118381682,
+    "date" : "2016-05-01T07:14:23.210Z",
+    "lat" : "51.49019756",
+    "locNum" : 5,
+    "lon" : "-0.190863311",
+    "position" : "51.49019756,-0.190863311",
+    "predictedJam" : 1,
+    "redirectpos" : "",
+    "reroute" : "none",
+    "timeClass" : 7,
+    "timestamp" : 1462086863210
+  }
+}

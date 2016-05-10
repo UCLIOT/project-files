@@ -1,0 +1,17 @@
+int COsensor;
+void setup() {
+Serial.begin(9600);
+}
+void loop() {
+  analogWrite(11, 245);
+  delay(14);
+  analogWrite(11, 0);
+  
+  delay(981);
+  analogWrite(10, 255);
+  delay(2.5);
+  COsensor = analogRead(A0);
+  Serial.println(COsensor);
+  delay(2.5);
+  analogWrite(10, 0);
+}
