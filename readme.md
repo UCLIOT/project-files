@@ -28,4 +28,4 @@ File Description
 *  group2-group-report.pdf: group report
 *  sacha-nacar-personal-contribution.pdf: Sacha Nacar's personal contribution to the project
 
-**video Link**: (https://www.youtube.com/watch?v=T2IE6NiIdgg)[https://www.youtube.com/watch?v=T2IE6NiIdgg]
+**Video Link**: [youtu.be/T2IE6NiIdgg](https://www.youtube.com/watch?v=T2IE6NiIdgg)
